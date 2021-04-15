@@ -1,13 +1,12 @@
-## Python virtual environment venv, Containers, Flask
+## Python Virtual Environment venv
+## Containers, Flask
 
-# Webpage: https://kyramichel.github.io/Virtualization/
-
-
-
+## Details @ https://kyramichel.github.io/Virtualization/
 
 
-## If you can't open a Jupyter notebook on github, use nbviewer:
 
-1. Copy the link to a .ipynb notebook on github (For example: copy https://github.com/kyramichel/Math_Finance/blob/master/Coupon%20Bonds1.ipynb)
-2. Open https://nbviewer.jupyter.org/ then paste the link to the .ipynb notebook there.
-Easy!
+
+
+PS: If you can't open a Jupyter notebook on github, use nbviewer:
+https://github.com/kyramichel/SimpleWay2Open-IPYNB-files
+
